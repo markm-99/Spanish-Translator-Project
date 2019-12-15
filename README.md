@@ -1,3 +1,5 @@
+Launch using MAMP or other server
+
 start from index.php 
 
 signup button -> sign_up.php
