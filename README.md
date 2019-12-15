@@ -1,20 +1,13 @@
 Launch using MAMP or other server
 
-start from index.php 
+1)start from index.php 
 
-signup button -> sign_up.php
+2)signup button -> sign_up.php
 
-login button -> login.php
+3)login button -> login.php
 
-if login success -> home.php
+4)if login success -> home.php
 
-translate button -> translate.php
+5)translate button -> translate.php
 
-upload files button -> upload.php
-
-<!-- schema -->
-<!-- Login to mysql -->
-<!-- CREATE DATABASE users; -->
-<!-- CREATE TABLE finalUsers.Users -->
-<!-- username VARCHAR(32) NOT NULL UNIQUE, -->
-<!-- passwordVARCHAR(32) NOT NULL UNIQUE, -->
+6)upload files button -> upload.php
