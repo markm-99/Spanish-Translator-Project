@@ -16,5 +16,3 @@ upload files button -> upload.php
 <!-- CREATE TABLE finalUsers.Users -->
 <!-- username VARCHAR(32) NOT NULL UNIQUE, -->
 <!-- passwordVARCHAR(32) NOT NULL UNIQUE, -->
-
-❮img src="/Users/markm/Desktop/Screen Shot 2019-12-15 at 9.54.21 AM.png" ❯
