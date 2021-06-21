@@ -1,3 +1,4 @@
+Project that translates English text into Spanish! Perfect for those learning Spanish as a new language :)
 Launch using MAMP or other server
 
 1)start from index.php 
